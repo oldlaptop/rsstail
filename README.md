@@ -1,16 +1,9 @@
 About this mirror
 =======
-I don't know what has happened, but as of late May 2021 the original rsstail
-author no longer appears to control the GitHub account under which rsstail
-sources were hosted and developed for years. Links to vanheusden.com all appear
-to be broken as well, and the original sources don't appear to survive anywhere
-else on Github so far as I can tell; my old fork is now dangling off of what
-appears to be a long out-of-date copy owned by someone who is not the rsstail
-author. This repository contains the most recent rsstail history to which I have
-access, up to date as of January 2019, and has not been intentionally modified
-by me (except in one PR merged by the original author before whatever happened)
-before the commit adding this section to the README.md. Unfortunately I can't
-rule out random bitrot, since I can't find a copy of the original repository.
+This mirror was created because of some kind of disruption with the original
+rsstail repository. As nearly as I can tell, the canonical source is now
+https://github.com/folkertvanheusden/rsstail (which seems to have branched
+off at b5dfa5a somewhat before this history ends).
 
 # rsstail
 rsstail is tail for RSS feeds
